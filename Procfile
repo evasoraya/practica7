@@ -1,0 +1,1 @@
+web: ./build/install/Practica2.1/bin/Practica2.1
